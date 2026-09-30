@@ -1,0 +1,7 @@
+# Installers are attached to GitHub Releases, not committed to Git.
+*.exe
+*.AppImage
+*.appimage
+*.dmg
+*.deb
+*.msi
